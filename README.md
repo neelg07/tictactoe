@@ -1,6 +1,6 @@
 # CS50p Final Project: TicTacToe
 
-### Video Demo: <URL HERE>
+### Video Demo: <https://youtu.be/xt3PfAeLotc>
 
 # Description: 
 
